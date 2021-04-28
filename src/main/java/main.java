@@ -5,7 +5,6 @@ public class main {
 
         System.out.println("123123123");
 
-        System.out.println("123123123");
     }
 }
 
